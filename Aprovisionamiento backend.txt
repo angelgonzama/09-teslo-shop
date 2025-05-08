@@ -1,4 +1,6 @@
 
 
-
+COSAS PARA SUBIR REPOSITORIO A GITHUB
 postgresql://neondb_owner:npg_4dOMf1PuATSE@ep-billowing-sky-abhfx939-pooler.eu-west-2.aws.neon.tech/neondb?sslmode=require
+
+VALOR JWT_SECRET: 3ab3d51da74ab5a2562b051b6db960e8656af7e5efcce528053b103ed97c1492
