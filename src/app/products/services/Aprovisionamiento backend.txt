@@ -1,0 +1,4 @@
+
+
+
+postgresql://neondb_owner:npg_4dOMf1PuATSE@ep-billowing-sky-abhfx939-pooler.eu-west-2.aws.neon.tech/neondb?sslmode=require
